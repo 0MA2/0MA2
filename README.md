@@ -30,8 +30,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0MA2&show_icons=true&theme=gruvbox" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0MA2&layout=compact&theme=gruvbox" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0MA2&show_icons=true&theme=rose_pine" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0MA2&layout=compact&theme=rose_pine" width="48%"/>
 </p>
 
 ---
