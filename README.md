@@ -11,7 +11,6 @@
 - 🎓 CS Graduate passionate about **Data Engineering** and cloud-based solutions.
 - 🔍 Currently working on building real-time and batch pipelines using **AWS**, **Airflow**, **dbt**, and more.
 - 🛠️ I love solving real-world problems with efficient, scalable systems.
-- 🌊 Working on a 3D computer vision project.
 - 💡 I enjoy transforming raw ideas into innovative solutions with a creative twist.
 
 ---
