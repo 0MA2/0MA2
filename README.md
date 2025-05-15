@@ -1,6 +1,6 @@
 ![,,,,,nnn](https://github.com/user-attachments/assets/8ff62041-33ac-4152-8a89-fa6e2d61d307)
 <p align="center">
-🌟 Creative Techie | 🛢️ Aspiring Data Engineer
+🌟 Creative Techie | 🛢️ Aspiring Data Engineer | sᴀ Based in Saudi Arabia
 </p>
 
 
