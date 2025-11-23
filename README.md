@@ -1,6 +1,4 @@
-![,,,,,nnn](https://github.com/user-attachments/assets/8ff62041-33ac-4152-8a89-fa6e2d61d307)
-<p align="center">
-🌟 Creative Techie | 🛢️ Aspiring Data Engineer | sᴀ Based in Saudi Arabia
+🌟 Creative Techie | sᴀ Based in Saudi Arabia
 </p>
 
 
@@ -8,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 CS Graduate passionate about **Data Engineering** and cloud-based solutions.
+- 🎓 CS Graduate passionate about **AI** and cloud-based solutions.
 - 🔍 Currently working on building real-time and batch pipelines using **AWS**, **Airflow**, **dbt**, and more.
 - 🛠️ I love solving real-world problems with efficient, scalable systems.
 - 💡 I enjoy transforming raw ideas into innovative solutions with a creative twist.
